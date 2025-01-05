@@ -1,7 +1,7 @@
-##CONSOLE-GAME
+# CONSOLE-GAME
 It's my Console Game on C++. There is Characters and Monsters. You have the change Character, that to win your enemies(randomize)! ENJOY!
 ___
-#CODE FOR HEROES
+## CODE FOR HEROES
 ```c++
 // Implementation of Heroes constructor with hero type
 Heroes::Heroes(Hero hero, int health, int level, int damage) {
@@ -21,7 +21,7 @@ Heroes::Heroes(Hero hero, int health, int level, int damage) {
 }
 ```
 ___
-#CODE FOR ENEMIES
+## CODE FOR ENEMIES
 ```c++
 // Monster class definition with different monster types
 class Monster : public Character {
