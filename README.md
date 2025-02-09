@@ -1,5 +1,5 @@
 # CONSOLE-GAME
-It's my Console Game on C++. There is Characters and Monsters. You have the change Character, that to win your enemies(randomize)! It's was just my first try to do the game on consoke! ENJOY!
+It's my Console Game on C++. There is Characters and Monsters. You have the change Character, that to win your enemies(randomize)! It's was just my first try to do the game on consoke! I hope, what you like it!ENJOY! 
 ___
 ## CODE FOR HEROES
 ```c++
